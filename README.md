@@ -25,7 +25,7 @@ PCおよびモバイル版IITCの両方に対応しています。
 ## インストール方法
 
 1.  [Tampermonkey](https://www.tampermonkey.net/) などのユーザースクリプトマネージャーをブラウザにインストールします。
-2.  `iitc-plugin-google-maps-search.user.js` をインストールします。
+2.  [`iitc-plugin-google-maps-search.user.js`](https://github.com/otus-scops/iitc-plugin-google-map-search/raw/refs/heads/main/iitc-plugin-google-maps-search.user.js) をインストールします。
     * **注意**: 初回実行時に、短縮URLを展開するために外部ドメイン（google.comなど）へのアクセス許可を求めるポップアップが表示される場合があります。「常に許可」を選択してください。
 
 ## ライセンス
